@@ -1,5 +1,5 @@
 # NICF – Basic Machine Learning with Scikit-Learn Course
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF – Basic Machine Learning with Scikit-Learn Course](https://www.tertiarycourses.com.sg/wsq-machine-learning-python-course.html) course. 
 
